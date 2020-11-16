@@ -102,7 +102,7 @@
 	<properties>
 		<start-class>com.restApi.App.RestApiApplication</start-class>
 		<guava.version>27.0.1-jre</guava.version>
-		<xstream.version>1.4.11.1</xstream.version>
+		<xstream.version>1.4.13-java7</xstream.version>
 		<modelmapper.version>2.3.5</modelmapper.version>
 		<spring-boot.version>2.1.9.RELEASE</spring-boot.version>
 	</properties>
